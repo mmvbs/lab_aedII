@@ -1,0 +1,3 @@
+# Grafos
+make
+.\main
